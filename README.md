@@ -20,6 +20,7 @@ EXAMPLE:
 >!calc 1 + 1
 
 !calc 1 + 1
+
 2
 
 That how Demo work, to exit program, you need to write `!exit` and they auto kill program.
