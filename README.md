@@ -17,7 +17,7 @@ Before using Demo, there is no documentation or how to use Demo. It just print a
 For print, you just write and word and letter and they print.
 For calculator, you need to write `!calc` to calculator
 EXAMPLE:
---- !calc 1 + 1
+>!calc 1 + 1
 !calc 1 + 1
 2
 
