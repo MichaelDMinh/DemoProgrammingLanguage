@@ -1,0 +1,11 @@
+DEMO LANGUAGE SOFTWARE
+======================
+
+Hello, welcome to Demo. This is our first version/product. Thank you for installing Demo Programming Language.
+
+======================
+DATE: November 14th 2025
+
+NOTE: Click the Demo.py to open the program
+
+Copyright © 2025 Demo Language Software 
