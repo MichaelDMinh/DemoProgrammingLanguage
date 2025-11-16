@@ -8,11 +8,7 @@ THIS IS VERSION 0.1.0 (Print/Calculator)
 # How to install Demo Programming Language
   *NOTE: THIS IS VERSION 0.1.0 SO IT'S ONLY SUPPORT WINDOWS. IS DOESN'T SUPPORT OTHERS OS (EVEN MAC OR LINUX)*
   
-To install Demo, open the `DemoProgrammingLanguage-main.zip` then navigate to `DemoProgrammingLanguage` that doesn't ZIP. After you open it, click the `Demo.py` file then you finally have Demo. After open Demo.py, write `install DemoSetup`.
-```
-install DemoSetup
-```
-You have to wait around 1-5 minutes and they will auto reset. It symbol they done.
+To install Demo, Click `Code` and Click `Download ZIP`. After they finish download, open the `DemoProgrammingLanguage-main.zip` then navigate to `DemoProgrammingLanguage-main` that doesn't ZIP. After you open it, click the `Demo.py` file then you finally have Demo.
 
 Before using Demo, there is no documentation or how to use Demo. It just print and calcuator.
 
@@ -21,7 +17,7 @@ Before using Demo, there is no documentation or how to use Demo. It just print a
 For print, you just write and word and letter and they print.
 For calculator, you need to write `!calc` to calculator
 EXAMPLE:
->>> !calc 1 + 1
+--- !calc 1 + 1
 !calc 1 + 1
 2
 
