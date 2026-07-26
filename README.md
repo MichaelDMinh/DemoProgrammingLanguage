@@ -1,5 +1,7 @@
 <h1>Welcome to Demo Programming Language</h1>
 
+======================================================
+
 ### About
 
 This programming language is very basic and used to run programs, make games, or do a lot more!
@@ -26,5 +28,7 @@ Mean
 Print the number 10
 
 So this is your first code, enjoy!
+
+======================================================
 
 Copyright © The Physical Development 2026
