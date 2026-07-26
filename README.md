@@ -8,17 +8,17 @@ This programming language is very basic and used to run programs, make games, or
 
 ### How to use
 
-First, you need to install the latest Python! Go to **<a href="[https://www.python.org/downloads/]" target="_blank">Python Official Download Website</a>**
+First, you need to install the latest Python! Go to **<a href="https://www.python.org/downloads/" target="_blank">Python Official Download Website</a>**
 
-Then, after you install it, configure them then open the **Python program **.
+Then, after you install it, configure it, and open the **Python program**.
 
-After that, you can now open the Demo.py!
+After that, you can now open Demo.py!
 
 ### Documentation
 
 To make your first code, you will need to know about `var` or `print`. Let's get started!
 
-First, to print out your first console, you need a ** variable **.
+First, to print out your first line in the console, you need a ** variable **.
 
 Here's the code
 `var num = 10`
@@ -30,7 +30,7 @@ The variable's number is 10
 or
 The number is 10
 
-Next, to print, yeah is easy
+Next, to print, yeah, it's easy
 `print(num)`
 Mean
 Print the number 10
