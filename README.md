@@ -6,6 +6,14 @@
 
 This programming language is very basic and used to run programs, make games, or do a lot more!
 
+### How to use
+
+First, you need to install the latest Python! Go to **<a href="[https://www.python.org/downloads/]" target="_blank">Python Official Download Website</a>**
+
+Then, after you install it, configure them then open the **Python program **.
+
+After that, you can now open the Demo.py!
+
 ### Documentation
 
 To make your first code, you will need to know about `var` or `print`. Let's get started!
