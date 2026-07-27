@@ -39,4 +39,4 @@ So this is your first code, enjoy!
 
 ======================================================
 
-Copyright © The Physical Development 2026
+Copyright © 2026 Michael Dovidson Minh
